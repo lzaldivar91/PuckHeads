@@ -1,6 +1,6 @@
 #trivia {
  position:absolute;
- width:100%;
+ width:95%;
  min-height:100%;
  margin:1em auto;
  background:#bcdeef;
@@ -101,7 +101,7 @@
 
 #trivia #answered {
  position:absolute;
- top:.3em;
+ top:5%;
  right:.1em;
  width:25%;
  height:4em;
@@ -132,7 +132,7 @@
 }
 #trivia #qdata {
  position:absolute;
- top:7em;
+ top:25%;
  right:.1em;
  width:25%;
  background:#fefeed;
