@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trivia>
+ <quiz>
+  <que>The captain of the Ottawa Senators is?</que>
+  <ca>Erik Karlsson</ca>
+  <ia>Kyle Turris</ia>
+  <ia>Chris Neil</ia>
+  <ia>Craig Anderson</ia>
+ </quiz>
+ <quiz>
+  <que>The captain of the Columbus Blue Jackets is?</que>
+  <ca>Nick Foligno</ca>
+  <ia>Scott Hartnell</ia>
+  <ia>Fedor Tyutin</ia>
+  <ia>Sergei Bobrovsky</ia>
+ </quiz>
+ <quiz>
+  <que>The captain of the Minnesota Wild is?</que>
+  <ca>Mikko Koivu</ca>
+  <ia>Zach Parise</ia>
+  <ia>Ryan Suter</ia>
+  <ia>Mikael Granlund</ia>
+ </quiz>
+  <quiz>
+  <que>The captain of the Montreal Canadiens is?</que>
+  <ca>Max Pacioretty</ca>
+  <ia>P.K. Subban</ia>
+  <ia>Andrei Markov</ia>
+  <ia>Tomas Plekanec</ia>
+ </quiz>
+  <quiz>
+  <que>The captain of the Detroit Red Wings is?</que>
+  <ca>Henrik Zetterberg</ca>
+  <ia>Nicklas Kronwall</ia>
+  <ia>Pavel Datsyuk</ia>
+  <ia>Jimmy Howard</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Edmonton Oilers is?</que>
+  <ca>Vacant</ca>
+  <ia>Connor Mcdavid</ia>
+  <ia>Andrew Ference</ia>
+  <ia>Taylor Hall</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Colorado Avalanche is?</que>
+  <ca>Gabriel Landeskog</ca>
+  <ia>Jarome Iginla</ia>
+  <ia>Cody Mcleod</ia>
+  <ia>Matt Duchene</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Chicago Blackhawks is?</que>
+  <ca>Jonathan Toews</ca>
+  <ia>Duncan Keith</ia>
+  <ia>Brent Seabrook</ia>
+  <ia>Patrick Kane</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Florida Panthers is?</que>
+  <ca>Willie Mitchell</ca>
+  <ia>Jaromir Jagr</ia>
+  <ia>Dave Bolland</ia>
+  <ia>Brian Campbell</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the New Jersey Devils is?</que>
+  <ca>Andy Greene</ca>
+  <ia>Adam Henrique</ia>
+  <ia>Travis Zajac</ia>
+  <ia>Mike Cammalleri</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Philadelphia Flyers is?</que>
+  <ca>Claude Giroux</ca>
+  <ia>Mark Streit</ia>
+  <ia>Wayne Simmonds</ia>
+  <ia>Shane Gostisbehere</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the San Jose Sharks is?</que>
+  <ca>Joe Pavelski</ca>
+  <ia>Joe Thornton</ia>
+  <ia>Logan Couture</ia>
+  <ia>Marc-Edouard Vlasic </ia>
+ </quiz>
+  <quiz>
+  <que>The captain of the Vancouver Canucks is?</que>
+  <ca>Henrik Sedin</ca>
+  <ia>Daniel Sedin</ia>
+  <ia>Dan Hamhuis</ia>
+  <ia>Alex Burrows</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Arizona Coyotes is?</que>
+  <ca>Shane Doan</ca>
+  <ia>Oliver Ekman-Larsson</ia>
+  <ia>Max Domi</ia>
+  <ia>Martin Hanzal</ia>
+ </quiz>
+   <quiz>
+  <que>The captain of the Calgary Flames is?</que>
+  <ca>Mark Giordano</ca>
+  <ia>Dennis Wideman</ia>
+  <ia>Shawn Monahan</ia>
+  <ia>Johnny Gaudreau</ia>
+ </quiz>
+</trivia>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trivia>
+ <quiz>
+  <que>On November 21, 2015, San Jose Sharks forward Patrick Marleau scored his:</que>
+  <ca>1,000th NHL point</ca>
+  <ia>500th NHL goal</ia>
+  <ia>500th NHL assist</ia>
+  <ia>900th NHL point</ia>
+ </quiz>
+ <quiz>
+  <que>On November 27, 2015, Arizona Coyotes coach Dave Tippett won his:</que>
+  <ca>500th game</ca>
+  <ia>100th overtime game</ia>
+  <ia>300th game</ia>
+  <ia>400th game</ia>
+ </quiz>
+ <quiz>
+  <que>On January 4, 2016, Colorado Avalanche forward Jarome Iginla scored his:</que>
+  <ca>600th NHL goal</ca>
+  <ia>600th NHL assist</ia>
+  <ia>1100th NHL point</ia>
+  <ia>50th overtime goal</ia>
+ </quiz>
+ <quiz>
+  <que>On January 10, 2016, Washington Capitals forward Alexander Ovechkin scored his:</que>
+  <ca>500th NHL goal</ca>
+  <ia>400th NHL goal</ia>
+  <ia>600th NHL goal</ia>
+  <ia>300th NHL goal</ia>
+ </quiz>
+ <quiz>
+  <que>On January 26, 2016, San Jose Sharks forward Joe Thornton scored his:</que>
+  <ca>1,300th NHL point</ca>
+  <ia>1,000th NHL assist</ia>
+  <ia>400th NHL goal</ia>
+  <ia>1,200th NHL point</ia>
+ </quiz>
+ <quiz>
+  <que>On February 4, 2016, Florida Panthers forward Jaromir Jagr scored his:</que>
+  <ca>1,100th NHL assist</ca>
+  <ia>700th NHL goal</ia>
+  <ia>600th NHL goal</ia>
+  <ia>1,000th NHL assist</ia>
+ </quiz>
+ <quiz>
+  <que>On February 20, 2016, Florida Panthers forward Jaromir Jagr scored his 742nd career goal, surpassing Brett Hull to become:</que>
+  <ca>third in career goals</ca>
+  <ia>second in career goals</ia>
+  <ia>fifth in career goals</ia>
+  <ia>fourth in career goals</ia>
+ </quiz>
+ <quiz>
+  <que>On February 13, 2016, Boston Bruins coach Claude Julien won his:</que>
+  <ca>500th NHL game</ca>
+  <ia>400th NHL game</ia>
+  <ia>600th NHL game</ia>
+  <ia>300th NHL game</ia>
+ </quiz>
+</trivia>

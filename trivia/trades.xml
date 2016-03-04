@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trivia>
+ <quiz>
+  <que>On February 29th, Anaheim Ducks' F Patrick Maroon was traded to:</que>
+  <ca>Edmonton Oilers</ca>
+  <ia>Pittsburgh Penguins</ia>
+  <ia>Los Angeles Kings</ia>
+  <ia>Montreal Canadiens</ia>
+ </quiz>
+ <quiz>
+  <que>On February 29th, Ottawa Senators' F Shane Prince was traded to:</que>
+  <ca>New York Islanders</ca>
+  <ia>New York Rangers</ia>
+  <ia>Philadelphia Flyers</ia>
+  <ia>Florida Panthers</ia>
+ </quiz>
+ <quiz>
+  <que>On February 29th, Arizona Coyotes' F Mikkel Boedker was traded to:</que>
+  <ca>Colorado Avalanche</ca>
+  <ia>Nashville Predators</ia>
+  <ia>St Louis Blues</ia>
+  <ia>New Jersey Devils</ia>
+ </quiz>
+ <quiz>
+  <que>On February 28th, longtime Carolina Hurricane's captain Eric Staal was traded to:</que>
+  <ca>New York Rangers</ca>
+  <ia>St Louis Blues</ia>
+  <ia>Washington Capitals</ia>
+  <ia>Winnipeg Jets</ia>
+ </quiz>
+ <quiz>
+  <que>On February 27th, Toronto Maple Leafs' G James Reimer was traded to:</que>
+  <ca>San Jose Sharks</ca>
+  <ia>Dallas Stars</ia>
+  <ia>Boston Bruins</ia>
+  <ia>Edmonton Oilers</ia>
+ </quiz>
+ <quiz>
+  <que>On February 25th, F Andrew Ladd was traded by the Winnipeg Jets to:</que>
+  <ca>Chicago Blachawks</ca>
+  <ia>Minnesota Wild</ia>
+  <ia>Tampa Bay Lightning</ia>
+  <ia>Buffalo Sabres</ia>
+ </quiz>
+ <quiz>
+  <que>On February 9th, the Toronto Maple Leafs made a splash by trading their captain Dion Phaneuf to which division rival?</que>
+  <ca>Ottawa Senators</ca>
+  <ia>Tampa Bay Lightning</ia>
+  <ia>Montreal Canadiens</ia>
+  <ia>Florida Panthers</ia>
+ </quiz>
+ <quiz>
+  <que>On January 15th, the Arizona Coyotes traded F John Scott to:</que>
+  <ca>Montreal Canadiens</ca>
+  <ia>Toronto Maple Leafs</ia>
+  <ia>Carolina Hurricanes</ia>
+  <ia>San Jose Sharks</ia>
+ </quiz>
+ <quiz>
+ <que>On January 6th, the Nashville Predators traded their franchise defenceman prospect Seth Jones to the Columbus Blue Jackets for:</que>
+ <ca>Ryan Johansen</ca>
+ <ia>Scott Hartnell</ia>
+ <ia>Sergei Bobrovsky</ia>
+ <ia>Ryan Murray</ia>
+ </quiz>
+  <quiz>
+ <que>On December 28th, following inconsistent results from G Mike Condon, the Montreal Canadiens traded for G Cam Talbot from:</que>
+ <ca>Edmonton Oilers</ca>
+ <ia>Los Angeles Kings</ia>
+ <ia>Dallas Stars</ia>
+ <ia>Calgary Flames</ia>
+ </quiz>
+</trivia>
