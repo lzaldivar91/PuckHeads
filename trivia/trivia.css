@@ -1,7 +1,7 @@
 #trivia {
- position:relative;
- width:35em;
- min-height:22em;
+ position:absolute;
+ width:100%;
+ min-height:100%;
  margin:1em auto;
  background:#bcdeef;
  border:1px solid blue;
