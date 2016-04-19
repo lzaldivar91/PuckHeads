@@ -1,0 +1,13 @@
+body {
+    background: url(trivia/background2.png);
+    font-family: "arial black";
+}
+h1 {
+    font-size: 28pt !important;
+    font-family: "arial black" !important;
+}
+
+p {
+    font-size: 18pt;
+    font-family: "arial black";
+}
